@@ -1,5 +1,6 @@
 /*By: Anagh Sharma, RN: 190102260, DIT University, Dehradun*/
 /*Date: 2nd August, 2021*/
+/*The program take input images in raw format*/
 
 #include <stdio.h>
 #include <stdlib.h>
