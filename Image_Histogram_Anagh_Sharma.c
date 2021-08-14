@@ -312,7 +312,7 @@ void HistogramComparison(
 		      	         int h /*Variable holding image height*/
 		      	         )
 {
-    int result;
+    int result = 0;
     double norm_res;
     int i;
     int sz = h*w;
